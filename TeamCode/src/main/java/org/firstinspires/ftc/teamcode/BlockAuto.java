@@ -3,8 +3,8 @@ package org.firstinspires.ftc.teamcode;
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
 import org.opencv.core.Rect;
 
-@Autonomous(name= "Block")
-public class CraterAuto extends T10_Library {
+@Autonomous(name= "BlockAuto")
+public class BlockAuto extends Library {
 	/*
 		T-10 Preliminary Autonomous
 		This is based on the assumption that we are:
