@@ -15,7 +15,7 @@ public class BlockAuto extends Library {
 enum state {
         START, ;
     }
-    
+
     state currentState = null;
 
     public void init() {
