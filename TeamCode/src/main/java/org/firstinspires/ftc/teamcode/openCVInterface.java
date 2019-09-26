@@ -1,0 +1,5 @@
+public class OpenCvInterface {
+	boolean ifThePositionOfTheRobotHappensToBeInFrontOfALocationThatIsInFrontOfTheSkystoneReturnTrueOtherwiseItWillReturnFalseEndOfSentanceWhyAreYouStillReadingYouShouldStopNowYouIdiot() {
+		return false;
+	}
+}
